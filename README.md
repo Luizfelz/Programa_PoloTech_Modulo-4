@@ -12,7 +12,7 @@ Os conteúdos abordados nas aulas são:
 Os conteúdos abordados nos gabaritos são:
 
 - Aula_1_Gabarito: Resoluções propostas pela professora, referentes às questões que foram sugeridas durante a aula 1;
-- Aula_3_parte_1_Gabarito: Resoluções propostas pela professora, referentes às questões que foram sugeridas durante a primeira parte da terceira aula;
+- Aula_3_parte_1_Gabarito: Resoluções propostas pela professora, referentes às questões que foram sugeridas durante a primeira parte da terceira aula.
 
 Os conteúdos abordados nas listas são:
 
