@@ -9,14 +9,19 @@ Os conteúdos abordados nas aulas são:
 - Aula 3: Probabilidade, Variável aleatória, Espaço Amostral, União de Eventos, Probabilidade Condicional, Eventos Independentes, Teorema de Bayes e exercícios para prática;
 - Aula 4: Distribuição Normal e Teorema Central do Limite.
 
-Os conteúdos abordados nos gabaritos são:
+Os conteúdos abordados nos gabaritos das aulas são:
 
-- Aula_1_Gabarito: Resoluções propostas pela professora, referentes às questões que foram sugeridas durante a aula 1;
-- Aula_3_parte_1_Gabarito: Resoluções propostas pela professora, referentes às questões que foram sugeridas durante a primeira parte da terceira aula.
+- Aula_2_Gabarito: Resolução proposta pela professora referente à resolução do exercício proposto no final da aula 2;
+- Aula_3_parte_1_Gabarito: Resoluções propostas pela professora referentes às questões que foram sugeridas durante a primeira parte da terceira aula.
 
 Os conteúdos abordados nas listas são:
 
 - Lista 1: Exercícios referentes às aulas 1 e 2;
 - Lista 2: Exercícios referentes à aula 3.
+
+Os conteúdos abordados nos gabaritos das listas são:
+
+- Lista 1_Gabarito Professora: Resolução proposta pela professora para solução dos exercícios da lista 1;
+- Lista 2_Gabarito Professora: Resolução proposta pela professora para solução dos exercícios da lista 2.
 
 A prova do quarto módulo abrange todo o conteúdo aplicado durante as aulas e o que foi exercitado nas listas.
