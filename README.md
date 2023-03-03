@@ -8,7 +8,9 @@ Os conteúdos abordados nas **aulas** são:
 - Aula 2: Boxplot, Outliers, Medidas de Dispersão, Métricas de associação entre variáveis quantitativas e Tabelas de Frequência;
 - Aula 3: Probabilidade, Variável aleatória, Espaço Amostral, União de Eventos, Probabilidade Condicional, Eventos Independentes, Teorema de Bayes e exercícios para prática;
 - Aula 4: Distribuição Normal e Teorema Central do Limite;
-- Aula 5: Amostragem, Tipos de amostragem, Tamanho amostral, Estimação, Inferência, Terminologia, Teste de Hipóteses, entre outros.
+- Aula 5: Amostragem, Tipos de amostragem, Tamanho amostral, Métodos de amostragem, Noções sobre amostragem e Terminologia;
+- Aula 6: Estimação e Inferência, Tamanho amostral, Níveis de confiança, Erro Inferencial, entre outros;
+- Aula 7: Teste de Hipóteses, Valor 'p' e Comparação entre duas médias;
 
 Os conteúdos abordados nos **gabaritos das aulas** são referentes às resolução proposta pela professora quanto aos exercícios propostos no final das aulas.
 
