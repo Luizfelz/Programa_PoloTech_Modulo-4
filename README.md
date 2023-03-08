@@ -18,4 +18,6 @@ Os conteúdos abordados nas **listas de exercícios** são para aprimorar os con
 
 Os conteúdos abordados nos **gabaritos das listas** são maneiras propostas pela professora para solução dos exercícios das listas de exercícios.
 
+O conteúdo da pasta **datasets** é referente aos arquivos de datasets, passados pela professora durante as aulas, e que foram usados em aulas específicas.
+
 A prova do quarto módulo abrange todo o conteúdo aplicado durante as aulas e o que foi exercitado nas listas.
